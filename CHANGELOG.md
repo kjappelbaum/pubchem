@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://www.github.com/cheminfo/pubchem/compare/v0.0.3...v0.1.0) (2021-01-14)
+
+
+### Features
+
+* add ghs pictograms URL ([1fff442](https://www.github.com/cheminfo/pubchem/commit/1fff442957c0ec1c43b6f1cddd52e528ab72538b))
+
 ### [0.0.3](https://www.github.com/cheminfo/pubchem/compare/v0.0.2...v0.0.3) (2021-01-13)
 
 
